@@ -1,0 +1,4 @@
+[endpoint]
+host=localhost
+port=8000
+secure=False

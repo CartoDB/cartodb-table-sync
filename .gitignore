@@ -1,0 +1,7 @@
+tests_service.conf
+.tests.conf
+venv
+*.pyc
+
+.idea/
+*.iml

@@ -7,6 +7,12 @@ Client abstracting the calls to Rails endpoints to notify tables changes: table 
 ## Project status
 NOT READY: this project is under development, tests do not represent the real/final expectations for the endpoints.
 
+## Installation
+For now the package can be installed like in:
+```sh
+pip install git+https://github.com/CartoDB/cartodb-table-sync.git#egg=cartodb-table-sync
+```
+
 ## Dependencies
 * [requests](http://python-requests.org/)
 
